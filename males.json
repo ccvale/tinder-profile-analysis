@@ -1,0 +1,318 @@
+[
+    { 
+        "id": 1,
+        "gender": 0,
+        "bio": "Jmu baseball  26 Don Bosco Prep 22",
+        "interests": [
+            "Working out"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 2,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Outdoors",
+            "Netflix",
+            "Comedy",
+            "Hiking"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 3,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Movies",
+            "Tattoos",
+            "Working out",
+            "Music",
+            "Sports"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Capricorn",
+            "Reptile",
+            "Smoker"
+        ]
+    },
+
+    { 
+        "id": 4,
+        "gender": 0,
+        "bio": "I workout in the morning so the rest of the day can be for you. I play piano Photographer 696 Snap: jp_carroll13",
+        "interests": [
+            "Travel",
+            "Music",
+            "Working out"
+        ],
+        "anthem": "Hurricane",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 5,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Coffee"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 6,
+        "gender": 0,
+        "bio": "I like climbing things and watching sports. Have spent the last 75 days outside so I got some crazy stories. Go yanks",
+        "interests": [
+            "Sports",
+            "Climbing",
+            "Outdoors"
+        ],
+        "anthem": "Ghost Town",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 7,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 8,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 9,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Coffee",
+            "Reading"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 10,
+        "gender": 0,
+        "bio": "cyphs? brooklyn baby add me on IG-@muapee",
+        "interests": [
+            "Baseball",
+            "Football",
+            "Motorcycling",
+            "Music",
+            "Art"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Aries",
+            "Bird",
+            "Social smoker"
+        ]
+    },
+
+    { 
+        "id": 11,
+        "gender": 0,
+        "bio": "I am passionate about photography and would love to further develop my English to perfection.",
+        "interests": [
+
+        ],
+        "anthem": "Psycho (feat. Ty Dolla $ign)",
+        "prompts": [
+            "Libra",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 12,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 13,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 14,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 15,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 16,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 17,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 18,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 19,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+    { 
+        "id": 20,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "zodiac",
+            "pets",
+            "smoking"
+        ]
+    },
+
+]
