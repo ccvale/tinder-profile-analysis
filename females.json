@@ -1,0 +1,911 @@
+[
+    { 
+        "id": 1,
+        "gender": 1,
+        "bio": "Instagram- leonor_ortizzz",
+        "interests": [
+            "Coffee",
+            "Activism",
+            "Foodie",
+            "Music",
+            "Movies"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 2,
+        "gender": 1,
+        "bio": "lover of avocados, coconuts, and one too many pizza slices",
+        "interests": [
+            "Fashion",
+            "Karaoke",
+            "Museum",
+            "Brunch",
+            "Volunteering"
+        ],
+        "anthem": "OPEN A WINDOW (feat. Tyler, The Creator)",
+        "prompts": [
+            "Aries",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 3,
+        "gender": 1,
+        "bio": "mommy issue haver costco hotdog enthusiast good music devotee",
+        "interests": [
+            "Foodie",
+            "Music",
+            "Karaoke",
+            "Dog lover",
+            "Comedy"
+        ],
+        "anthem": "Fair Trade (with Travis Scott)",
+        "prompts": [
+            "Libra",
+            "Dog",
+            "Social smoker"
+        ]
+    },
+
+    { 
+        "id": 4,
+        "gender": 1,
+        "bio": "Follow my new insta page: angelisse_req Im 18 I dont know why its says 20",
+        "interests": [
+            "Foodie",
+            "Tattoos",
+            "Sports",
+            "Astrology",
+            "Spirituality"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 5,
+        "gender": 1,
+        "bio": "they/she. from bushwick, and 420 friendly. :) can we just makeout ? (the last photo is just really fun to me.)",
+        "interests": [
+            "Photography",
+            "Black Lives Matter",
+            "Movies",
+            "Music",
+            "Cat lover"
+        ],
+        "anthem": "Wolfcat",
+        "prompts": [
+            "Scorpio",
+            "Cat",
+            ""
+        ]
+    },
+
+    { 
+        "id": 6,
+        "gender": 1,
+        "bio": "Dont know what to put here .. Ask me anything",
+        "interests": [
+            "Picnicking",
+            "Fashion",
+            "Road Trips",
+            "Music",
+            "Spirituality"
+        ],
+        "anthem": "Kiss Me More (feat. SZA)",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 7,
+        "gender": 1,
+        "bio": "howdy i delete this app a lot so if i disappear you can message me on ig @youareasceptic (thats a quote from my favorite book heheh)",
+        "interests": [
+            "Writer",
+            "Reading",
+            "Gamer",
+            "Fashion",
+            "Spirituality"
+        ],
+        "anthem": "Industry Plant",
+        "prompts": [
+            "Pisces",
+            "Reptile",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 8,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Sports",
+            "Dog lover",
+            "Athlete",
+            "Working out",
+            "Movies"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 9,
+        "gender": 1,
+        "bio": ":) ig: katy.wsl bin hier nicht so aktiv. kranke 1,75m Rick&Morty",
+        "interests": [
+            "Gin Tonic",
+            "Sushi",
+            "Movies",
+            "Working out",
+            "Cooking"
+        ],
+        "anthem": "The Cure",
+        "prompts": [
+            "Gemini",
+            "",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 10,
+        "gender": 1,
+        "bio": "dm me on instagram: torineomi",
+        "interests": [
+            "Travel",
+            "Tattoos",
+            "Fashion",
+            "Art",
+            "Second-hand apparel"
+        ],
+        "anthem": "L$D",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 11,
+        "gender": 1,
+        "bio": "Two truths and a lie: 1) Cardi B called me sexy once 2) I ran 7 marathons 3) Ive written 2 New York Times bestselling books",
+        "interests": [
+            "Movies",
+            "Dancing",
+            "Dog lover",
+            "Board Games",
+            "Tea"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 12,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Walking",
+            "Travel",
+            "Movies",
+            "Coffee",
+            "Netflix"
+        ],
+        "anthem": "thank u, next",
+        "prompts": [
+            "Aquarius",
+            "Pet-free",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 13,
+        "gender": 1,
+        "bio": "can you guess what i was for halloween?",
+        "interests": [
+            "Walking",
+            "Foodie",
+            "Reading"
+
+        ],
+        "anthem": "Tamagotchi",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 14,
+        "gender": 1,
+        "bio": "Nj Im just tryna just vibe",
+        "interests": [
+            "Music",
+            "Disney",
+            "Comedy",
+            "Movies",
+            "LGBTQ+ Rights"
+        ],
+        "anthem": "Over",
+        "prompts": [
+            "Aries",
+            "Dog",
+            "Smoker"
+        ]
+    },
+
+    { 
+        "id": 15,
+        "gender": 1,
+        "bio": "Who wants to go to Dover Street Market w me? Main Insta: @yannah._ Art Insta: @bernelli.designs Lmk what you think?",
+        "interests": [
+            "Fashion",
+            "Art",
+            "Museum",
+            "Music",
+            "Movies"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 16,
+        "gender": 1,
+        "bio": "Snapchat - annesoqi Part-time homewrecker Let's party in miami like no tomorrow!",
+        "interests": [
+            "Comedy",
+            "Outdoors",
+            "Grab a drink",
+            "Travel"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Libra",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 17,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Mental Health Awareness",
+            "Coffee",
+            "Working out",
+            "Movies",
+            "Foodie"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 18,
+        "gender": 1,
+        "bio": "super new to this, so hey! i mostly dont bite",
+        "interests": [
+            "Music",
+            "Fashion",
+            "Travel",
+            "Art"
+        ],
+        "anthem": "Praise God",
+        "prompts": [
+            "Leo",
+            "Dog",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 19,
+        "gender": 1,
+        "bio": "film major in nyc from hawaii lets go get sushi and dance in the street",
+        "interests": [
+            "Music",
+            "Dog lover",
+            "Vegetarian",
+            "Writer",
+            "Movies"
+        ],
+        "anthem": "good 4 u",
+        "prompts": [
+            "Libra",
+            "Dog",
+            ""
+        ]
+    },
+
+    { 
+        "id": 20,
+        "gender": 1,
+        "bio": "Mentally in NYC...I'm from and live in Panama I just lost faith in short distance relationships. 1.55cm I'm pretty bad keeping up conversations. (I don't usually wear makeup, so I normally look like in the last pic)",
+        "interests": [
+            "Astrology",
+            "Movies",
+            "Music",
+            "Netflix",
+            "Writer"
+        ],
+        "anthem": "History Has Its Eyes on You",
+        "prompts": [
+            "Gemini",
+            "Pet-free",
+            "Non-smoker"
+        ]
+    },
+    
+    { 
+        "id": 21,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Cat lover",
+            "Second-hand apparel",
+            "Climate Change",
+            "LGBTQ+ Rights",
+            "Tattoos"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 22,
+        "gender": 1,
+        "bio": "ADD THE SNAP Kayj8922 INSTA kayj8959",
+        "interests": [
+            "Working out",
+            "Country Music",
+            "Photography",
+            "Instagram",
+            "Snowboarding"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 23,
+        "gender": 1,
+        "bio": "Suche jemanden der fur mich beim Pizza lieferservice anruft Bitte keine BWL Justusse die IrGenDwAs mIT MaNaGemMeNt machen wollen",
+        "interests": [
+            "Foodie",
+            "Travel",
+            "Photography",
+            "Astrology",
+            "Sushi"
+        ],
+        "anthem": "Shoot For The Stars Aim For The Moon",
+        "prompts": [
+            "Scorpio",
+            "",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 24,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Working out",
+            "Spirituality",
+            "Astrology",
+            "Language Exchange",
+            "Travel"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Aries",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 25,
+        "gender": 1,
+        "bio": "take me on an adventure",
+        "interests": [
+            "Travel",
+            "Music",
+            "Sports",
+            "Athlete",
+            "Fashion"
+        ],
+        "anthem": "Kiss Me More (feat. SZA)",
+        "prompts": [
+            "Scorpio",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 26,
+        "gender": 1,
+        "bio": "Just looking for people to get dinner and drinks with in nyc :)",
+        "interests": [
+            "Art",
+            "Board Games",
+            "Grab a drink",
+            "Travel",
+            "Movies"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 27,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "ROS",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 28,
+        "gender": 1,
+        "bio": "1 2 3 4",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 29,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Grab a drink",
+            "Working out",
+            "Dog lover"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 30,
+        "gender": 1,
+        "bio": "Looking for comrades She/Her Snap-gemx_xx1 Instagram-@geminispiritt No hookups",
+        "interests": [
+            "LGBTQ+",
+            "Black Lives Matter",
+            "Fashion",
+            "Music",
+            "Cat lover"
+        ],
+        "anthem": "Praise God",
+        "prompts": [
+            "Gemini",
+            "Cat",
+            "Smoker"
+        ]
+    },
+
+    { 
+        "id": 31,
+        "gender": 1,
+        "bio": "boston//nj",
+        "interests": [
+            "Foodie",
+            "Travel",
+            "Dog lover",
+            "Astrology",
+            "Mental Health Awareness"
+        ],
+        "anthem": "Freaky Deaky",
+        "prompts": [
+            "Capricorn",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 32,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 33,
+        "gender": 1,
+        "bio": "Nyc| Painter | Pansexual | I got attachment issues- if you tryna vibe with that! Say Hii if you see me",
+        "interests": [
+            "Foodie",
+            "Gamer",
+            "Art",
+            "Museum",
+            "Cat lover"
+        ],
+        "anthem": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "prompts": [
+            "Cancer",
+            "Cat",
+            ""
+        ]
+    },
+
+    { 
+        "id": 34,
+        "gender": 1,
+        "bio": "extremely excited for picnic season",
+        "interests": [
+            "Music"
+        ],
+        "anthem": "Dog Eyes",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 35,
+        "gender": 1,
+        "bio": "conserve water, shower with a friend!",
+        "interests": [
+            "Music",
+            "Cat lover",
+            "Foodie"
+        ],
+        "anthem": "Sex on Fire",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 36,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Baking",
+            "Fashion",
+            "Cooking",
+            "Art",
+            "Music"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 37,
+        "gender": 1,
+        "bio": "looking for friends n stuff ;)) i love reading and being w my friends always joking around so hmu for a laugh i can outsmoke you ;)",
+        "interests": [
+            "Music",
+            "Spirituality",
+            "Reading",
+            "Baking"
+        ],
+        "anthem": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
+        "prompts": [
+            "Virgo",
+            "All the ",
+            ""
+        ]
+    },
+
+    { 
+        "id": 38,
+        "gender": 1,
+        "bio": "my septum piercing is my new personality trait tell me your favorite movie :) @jaedaa.xo on ig",
+        "interests": [
+            "Black Lives Matter",
+            "Cat lover",
+            "LGBTQ+",
+            "Music",
+            "Photography"
+
+        ],
+        "anthem": "Praise God",
+        "prompts": [
+            "Aries",
+            "Pet-free",
+            ""
+        ]
+    },
+
+    { 
+        "id": 39,
+        "gender": 1,
+        "bio": "clinically insane but i think its worth it selina kyle irl",
+        "interests": [
+            "Feminism",
+            "Writer",
+            "Art",
+            "Music",
+            "Activism"
+        ],
+        "anthem": "Chanel",
+        "prompts": [
+            "Capricorn",
+            "Cat",
+            "Smoker when drinking"
+        ]
+    },
+
+    { 
+        "id": 40,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Art",
+            "Dog lover",
+            "Voter Rights"
+        ],
+        "anthem": "Sweater Weather",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 41,
+        "gender": 1,
+        "bio": "do u like my shoes",
+        "interests": [
+            "Music",
+            "Coffee",
+            "Outdoors",
+            "Road Trips",
+            "Second-hand apparel"
+        ],
+        "anthem": "Sweater Weather",
+        "prompts": [
+            "Leo",
+            "Cat",
+            ""
+        ]
+    },
+
+    { 
+        "id": 42,
+        "gender": 1,
+        "bio": "follow me on insta @amyym1 lets go get sushi together",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 43,
+        "gender": 1,
+        "bio": "Love working on cars and going to the gym Up for late night drives \nLooking for anything ig girlgettabag Snap angiea9504",
+        "interests": [
+            "Foodie",
+            "Movies",
+            "Cat lover",
+            "Shopping"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Virgo",
+            "Cat",
+            ""
+        ]
+    },
+
+    { 
+        "id": 44,
+        "gender": 1,
+        "bio": "French in New York Ig @jasmine_rlld",
+        "interests": [
+            "Travel",
+            "Art",
+            "Netflix",
+            "Music",
+            "Working out"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Scorpio",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 45,
+        "gender": 1,
+        "bio": "Always down for a good time Love to party Freshman at FIT",
+        "interests": [
+            "Shopping",
+            "Grab a drink",
+            "Karaoke",
+            "Fashion",
+            "Sports"
+        ],
+        "anthem": "Cali",
+        "prompts": [
+            "Cancer",
+            "Dog",
+            "Social smoker"
+        ]
+    },
+
+    { 
+        "id": 46,
+        "gender": 1,
+        "bio": "Insta: Melody.pab",
+        "interests": [
+            "Athlete",
+            "Netflix",
+            "Gamer",
+            "Working out",
+            "Comedy"
+        ],
+        "anthem": "Cudi Zone",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 47,
+        "gender": 1,
+        "bio": "5'8 / barely have any pics :/ be a gentleman and take me out to dinner",
+        "interests": [
+            "Dog lover",
+            "Skiing",
+            "Travel"
+        ],
+        "anthem": "Wait a Minute!",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 48,
+        "gender": 1,
+        "bio": "triple leo & Angela Davis fan just moved to NYC, show me around? <3",
+        "interests": [
+
+        ],
+        "anthem": "Wait a Minute!",
+        "prompts": [
+            "Leo",
+            "Pet-free",
+            ""
+        ]
+    },
+
+    { 
+        "id": 49,
+        "gender": 1,
+        "bio": "ice cream hater and tomato lover",
+        "interests": [
+
+        ],
+        "anthem": "Reptilia",
+        "prompts": [
+            "",
+            "All the pets",
+            ""
+        ]
+    },
+
+    { 
+        "id": 50,
+        "gender": 1,
+        "bio": "",
+        "interests": [
+            "Walking",
+            "Language Exchange",
+            "Art",
+            "Music"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    }
+
+]
