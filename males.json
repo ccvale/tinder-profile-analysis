@@ -109,9 +109,9 @@
         ],
         "anthem": "",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
 
@@ -124,9 +124,9 @@
         ],
         "anthem": "",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
 
@@ -170,7 +170,11 @@
         "gender": 0,
         "bio": "I am passionate about photography and would love to further develop my English to perfection.",
         "interests": [
-
+            "Walking",
+            "Travel",
+            "Language Exchange",
+            "Photography",
+            "Tattoos"
         ],
         "anthem": "Psycho (feat. Ty Dolla $ign)",
         "prompts": [
@@ -183,90 +187,107 @@
     { 
         "id": 12,
         "gender": 0,
-        "bio": "",
+        "bio": "Theres an 80% chance that at any time Ive watched Shrek in the last 10 days I have a hard time with things",
         "interests": [
-
+            "Writing",
+            "Movies",
+            "Sports",
+            "Jiu-jitsu"
         ],
         "anthem": "",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
 
     { 
         "id": 13,
         "gender": 0,
-        "bio": "",
+        "bio": "If we cant pregame our kids parent teacher conference, whats this all been about? Its a lot less fun being 6'3 when youre scared of heights",
         "interests": [
-
+            "Second-hand apparel",
+            "Hiking",
+            "Disney",
+            "Trivia",
+            "Volunteering"
         ],
         "anthem": "",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
 
     { 
         "id": 14,
         "gender": 0,
-        "bio": "",
+        "bio": "I know what youre thinking and yes youre right, I do have a great personality. Love cars and working out. Hmu to talk about marvel.",
         "interests": [
-
+            "Comedy",
+            "Working out",
+            "Tattoos"
         ],
-        "anthem": "",
+        "anthem": "Thinking",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "Pisces",
+            "",
+            ""
         ]
     },
 
     { 
         "id": 15,
         "gender": 0,
-        "bio": "",
+        "bio": "Might just be bored",
         "interests": [
-
+            "Music",
+            "Netflix",
+            "Shopping",
+            "Instagram"
         ],
-        "anthem": "",
+        "anthem": "Stop Breathing",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "Sagittarius",
+            "Dog",
+            "Non-smoker"
         ]
     },
 
     { 
         "id": 16,
         "gender": 0,
-        "bio": "",
+        "bio": "Work in the video game industry :)",
         "interests": [
-
+            "Walking",
+            "Running",
+            "Travel",
+            "Blogging",
+            "Movies"
         ],
-        "anthem": "",
+        "anthem": "Mount Everest",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
 
     { 
         "id": 17,
         "gender": 0,
-        "bio": "",
+        "bio": "IG: Rellbanzo",
         "interests": [
-
+            "Sports",
+            "Working out"
         ],
         "anthem": "",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
 
@@ -275,33 +296,190 @@
         "gender": 0,
         "bio": "",
         "interests": [
-
+            "Tea",
+            "Music",
+            "Voter Rights"
         ],
-        "anthem": "",
+        "anthem": "Good Life",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "Pisces",
+            "",
+            "Social smoker"
         ]
     },
 
     { 
         "id": 19,
         "gender": 0,
-        "bio": "",
+        "bio": "Boston College Sailing 26",
         "interests": [
-
+            "Surfing",
+            "Sports",
+            "Travel"
         ],
-        "anthem": "",
+        "anthem": "ROCKSTAR P",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "Libra",
+            "Dog",
+            "Smoker when drinking"
         ]
     },
 
     { 
         "id": 20,
+        "gender": 0,
+        "bio": "5'7 nerd I draw anime shit Ig @nic_mariani716",
+        "interests": [
+            "Art",
+            "Reading",
+            "Movies"
+        ],
+        "anthem": "Fighting Gold",
+        "prompts": [
+            "Cancer",
+            "Dog",
+            "Social smoker"
+        ]
+    },
+
+    { 
+        "id": 21,
+        "gender": 0,
+        "bio": "I like cars and za",
+        "interests": [
+            "Sports",
+            "Music"
+        ],
+        "anthem": "The Spins",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 22,
+        "gender": 0,
+        "bio": "The only difference between me and dave Chappelle is that hes black and actually funny Lets compare tattoos Swipe to the last picture if you want to see how hard I can cry",
+        "interests": [
+
+        ],
+        "anthem": "Viscous",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 23,
+        "gender": 0,
+        "bio": "lookn for datess, b nice 6'2",
+        "interests": [
+
+        ],
+        "anthem": "Me Gustas Tu",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 24,
+        "gender": 0,
+        "bio": "Rico suaves distant cousin",
+        "interests": [
+            "Working out",
+            "Hiking",
+            "Travel",
+            "Movies",
+            "Sports"
+        ],
+        "anthem": "Sweater Weather",
+        "prompts": [
+            "Scorpio",
+            "Dog",
+            ""
+        ]
+    },
+
+    { 
+        "id": 25,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Sports",
+            "Working out",
+            "Movies",
+            "Gym",
+            "Country Music"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 26,
+        "gender": 0,
+        "bio": "Levitating (feat. DaBaby)",
+        "interests": [
+            "Movies",
+            "Sports",
+            "Working out",
+            "Netflix"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 27,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Sports"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Leo",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 28,
+        "gender": 0,
+        "bio": "Hmu if youre in New Jersey. I love to watch movies, working out, and anime",
+        "interests": [
+            "Movies",
+            "Netflix",
+            "Working out",
+            "Disney",
+            "Skateboarding"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "Dog",
+            ""
+        ]
+    },
+
+    { 
+        "id": 29,
         "gender": 0,
         "bio": "",
         "interests": [
@@ -309,10 +487,388 @@
         ],
         "anthem": "",
         "prompts": [
-            "zodiac",
-            "pets",
-            "smoking"
+            "",
+            "",
+            ""
         ]
     },
+
+    { 
+        "id": 30,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Travel",
+            "Sports",
+            "Working out"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 31,
+        "gender": 0,
+        "bio": "If you love nature and going on adventures, but also love watching movies or shows on a lazy day swipe right I travel alot for work so you can find me in NY, NJ and PA Tell me what made you swipe right Or tell me something surprising about yourself",
+        "interests": [
+            "Museum",
+            "Black Lives Matter",
+            "Travel",
+            "Feminism"
+        ],
+        "anthem": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+        "prompts": [
+            "Virgo",
+            "Dog",
+            ""
+        ]
+    },
+
+    { 
+        "id": 32,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Martial Arts",
+            "Travel",
+            "Movies",
+            "Gym",
+            "Skiing"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 33,
+        "gender": 0,
+        "bio": "Clever caption here please",
+        "interests": [
+            "Running",
+            "Working out",
+            "Soccer",
+            "Outdoors",
+            "Travel"
+        ],
+        "anthem": "Look Alive (feat. Drake)",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 34,
+        "gender": 0,
+        "bio": "Single college student ready for a fwb ;)",
+        "interests": [
+            "Sports",
+            "Shopping",
+            "Manga",
+            "Music",
+            "Travel"
+        ],
+        "anthem": "Adore You",
+        "prompts": [
+            "Capricorn",
+            "",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 35,
+        "gender": 0,
+        "bio": "Me gusta los perritos:v conocer lugares, parques y la musica.",
+        "interests": [
+            "Netflix",
+            "Movies",
+            "Cooking"
+        ],
+        "anthem": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+        "prompts": [
+            "Taurus",
+            "Dog",
+            "Smoker when drinking"
+        ]
+    },
+
+    { 
+        "id": 36,
+        "gender": 0,
+        "bio": "Help me kill the time. Nj / NYC",
+        "interests": [
+            "Travel",
+            "Karaoke",
+            "Soccer",
+            "Trivia"
+        ],
+        "anthem": "Oh My God",
+        "prompts": [
+            "Libra",
+            "Cat",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 37,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Reading"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 38,
+        "gender": 0,
+        "bio": "Currently a junior studying food science at MSU. Hit me up, let's see where the conversation goes. I'm a Virgo, I don't know exactly what that means to you but yep.",
+        "interests": [
+            "Movies",
+            "Tattoos",
+            "Hiking",
+            "Travel",
+            "Ice Cream"
+        ],
+        "anthem": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+        "prompts": [
+            "Virgo",
+            "Dog",
+            ""
+        ]
+    },
+
+    { 
+        "id": 39,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Travel",
+            "Sports",
+            "Music",
+            "Soccer",
+            "Cooking"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 40,
+        "gender": 0,
+        "bio": "Nothing serious Idk I play guitar and go to the gym Also teach yoga 6'3 Anyone actually read these?",
+        "interests": [
+            "Music",
+            "Road Trips",
+            "Working out",
+            "Coffee",
+            "Yoga"
+        ],
+        "anthem": "Save You",
+        "prompts": [
+            "Aquarius",
+            "",
+            "Social smoker"
+        ]
+    },
+
+    { 
+        "id": 41,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 42,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Skiing",
+            "Snowboarding",
+            "Instagram",
+            "Crossfit"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 43,
+        "gender": 0,
+        "bio": "Ask",
+        "interests": [
+            "Running",
+            "Photography",
+            "Reading"
+        ],
+        "anthem": "Six 4 Dreams",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 44,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Home Workout",
+            "Instagram",
+            "Sports",
+            "Tattoos",
+            "Entrepreneurship"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 45,
+        "gender": 0,
+        "bio": "6'3 Italian food > any other food",
+        "interests": [
+            "DIY",
+            "Sports",
+            "Outdoors",
+            "Cooking",
+            "Music"
+        ],
+        "anthem": "Wish You Were Here",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 46,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Reading",
+            "Sports",
+            "Movies"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 47,
+        "gender": 0,
+        "bio": "",
+        "interests": [
+            "Surfing",
+            "Tattoos",
+            "Stocks",
+            "Yoga",
+            "Ramen"
+        ],
+        "anthem": "",
+        "prompts": [
+            "Taurus",
+            "Pet-free",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 48,
+        "gender": 0,
+        "bio": "Best Dad in the world",
+        "interests": [
+            "Netflix",
+            "Travel",
+            "Hiking",
+            "Fishing"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    },
+
+    { 
+        "id": 49,
+        "gender": 0,
+        "bio": "Chubby Dude lifting Chubby Weights Seeking: -Vibes -Coffee Dates and Waffles too -Someone who thinks they can be me at pool -10 tall Amazonian Warrior who can Bench Press a building-Atlantis-Someone to lift with and take cute photos with because Im bad at pictures Also Im 5'6 so basically Im like 2 tall. ENM Kink friendly BDSM",
+        "interests": [
+            "Mental Heath Awareness",
+            "Working out",
+            "Dungeons & Dragons",
+            "Coffee",
+            "Movies"
+        ],
+        "anthem": "I'll Go",
+        "prompts": [
+            "Aries",
+            "",
+            "Non-smoker"
+        ]
+    },
+
+    { 
+        "id": 50,
+        "gender": 0,
+        "bio": "Dating me is like going to a hibachi restaurant, you will not only enjoy the food, you will love the experience.",
+        "interests": [
+            "Movies",
+            "Reading",
+            "Cooking",
+            "Music"
+        ],
+        "anthem": "",
+        "prompts": [
+            "",
+            "",
+            ""
+        ]
+    }
 
 ]
