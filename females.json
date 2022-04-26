@@ -580,12 +580,12 @@
         "gender": 1,
         "bio": "",
         "interests": [
-
+            "Fashion"
         ],
         "anthem": "",
         "prompts": [
             "",
-            "",
+            "Dog",
             ""
         ]
     },
@@ -673,7 +673,7 @@
         "anthem": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "prompts": [
             "Virgo",
-            "All the ",
+            "All the pets",
             ""
         ]
     },
