@@ -60,7 +60,7 @@
             "Music",
             "Working out"
         ],
-        "anthem": "Hurricane",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "",
             "",
@@ -92,7 +92,7 @@
             "Climbing",
             "Outdoors"
         ],
-        "anthem": "Ghost Town",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "",
             "",
@@ -176,7 +176,7 @@
             "Photography",
             "Tattoos"
         ],
-        "anthem": "Psycho (feat. Ty Dolla $ign)",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "Libra",
             "",
@@ -230,7 +230,7 @@
             "Working out",
             "Tattoos"
         ],
-        "anthem": "Thinking",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "Pisces",
             "",
@@ -248,7 +248,7 @@
             "Shopping",
             "Instagram"
         ],
-        "anthem": "Stop Breathing",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "Sagittarius",
             "Dog",
@@ -267,7 +267,7 @@
             "Blogging",
             "Movies"
         ],
-        "anthem": "Mount Everest",
+        "anthem": "Pop",
         "prompts": [
             "",
             "",
@@ -300,7 +300,7 @@
             "Music",
             "Voter Rights"
         ],
-        "anthem": "Good Life",
+        "anthem": "Indie",
         "prompts": [
             "Pisces",
             "",
@@ -317,7 +317,7 @@
             "Sports",
             "Travel"
         ],
-        "anthem": "ROCKSTAR P",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "Libra",
             "Dog",
@@ -334,7 +334,7 @@
             "Reading",
             "Movies"
         ],
-        "anthem": "Fighting Gold",
+        "anthem": "Rock",
         "prompts": [
             "Cancer",
             "Dog",
@@ -350,7 +350,7 @@
             "Sports",
             "Music"
         ],
-        "anthem": "The Spins",
+        "anthem": "R&B",
         "prompts": [
             "",
             "",
@@ -365,7 +365,7 @@
         "interests": [
 
         ],
-        "anthem": "Viscous",
+        "anthem": "Country",
         "prompts": [
             "",
             "",
@@ -380,7 +380,7 @@
         "interests": [
 
         ],
-        "anthem": "Me Gustas Tu",
+        "anthem": "Pop",
         "prompts": [
             "",
             "",
@@ -399,7 +399,7 @@
             "Movies",
             "Sports"
         ],
-        "anthem": "Sweater Weather",
+        "anthem": "Indie",
         "prompts": [
             "Scorpio",
             "Dog",
@@ -418,7 +418,7 @@
             "Gym",
             "Country Music"
         ],
-        "anthem": "",
+        "anthem": "Indie",
         "prompts": [
             "",
             "",
@@ -429,7 +429,7 @@
     { 
         "id": 26,
         "gender": 0,
-        "bio": "Levitating (feat. DaBaby)",
+        "bio": "Hip Hop/Rap",
         "interests": [
             "Movies",
             "Sports",
@@ -470,7 +470,7 @@
             "Disney",
             "Skateboarding"
         ],
-        "anthem": "",
+        "anthem": "Rock",
         "prompts": [
             "",
             "Dog",
@@ -485,7 +485,7 @@
         "interests": [
 
         ],
-        "anthem": "",
+        "anthem": "Pop",
         "prompts": [
             "",
             "",
@@ -502,7 +502,7 @@
             "Sports",
             "Working out"
         ],
-        "anthem": "",
+        "anthem": "Country",
         "prompts": [
             "",
             "",
@@ -520,7 +520,7 @@
             "Travel",
             "Feminism"
         ],
-        "anthem": "JUGGERNAUT (feat. Lil Uzi Vert & Pharrell Williams)",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "Virgo",
             "Dog",
@@ -558,7 +558,7 @@
             "Outdoors",
             "Travel"
         ],
-        "anthem": "Look Alive (feat. Drake)",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "",
             "",
@@ -577,7 +577,7 @@
             "Music",
             "Travel"
         ],
-        "anthem": "Adore You",
+        "anthem": "Pop",
         "prompts": [
             "Capricorn",
             "",
@@ -594,7 +594,7 @@
             "Movies",
             "Cooking"
         ],
-        "anthem": "Tiago PZK: Bzrp Music Sessions, Vol. 48",
+        "anthem": "Dubstep",
         "prompts": [
             "Taurus",
             "Dog",
@@ -612,7 +612,7 @@
             "Soccer",
             "Trivia"
         ],
-        "anthem": "Oh My God",
+        "anthem": "Pop",
         "prompts": [
             "Libra",
             "Cat",
@@ -646,7 +646,7 @@
             "Travel",
             "Ice Cream"
         ],
-        "anthem": "Twinz (Deep Cover 98) (feat. Fat Joe)",
+        "anthem": "Dubstep",
         "prompts": [
             "Virgo",
             "Dog",
@@ -684,7 +684,7 @@
             "Coffee",
             "Yoga"
         ],
-        "anthem": "Save You",
+        "anthem": "Rock",
         "prompts": [
             "Aquarius",
             "",
@@ -699,7 +699,7 @@
         "interests": [
 
         ],
-        "anthem": "",
+        "anthem": "Country",
         "prompts": [
             "",
             "",
@@ -717,7 +717,7 @@
             "Instagram",
             "Crossfit"
         ],
-        "anthem": "",
+        "anthem": "Indie",
         "prompts": [
             "",
             "",
@@ -734,7 +734,7 @@
             "Photography",
             "Reading"
         ],
-        "anthem": "Six 4 Dreams",
+        "anthem": "Hip Hop/Rap",
         "prompts": [
             "",
             "",
@@ -753,7 +753,7 @@
             "Tattoos",
             "Entrepreneurship"
         ],
-        "anthem": "",
+        "anthem": "Country",
         "prompts": [
             "",
             "",
@@ -772,7 +772,7 @@
             "Cooking",
             "Music"
         ],
-        "anthem": "Wish You Were Here",
+        "anthem": "Rock",
         "prompts": [
             "",
             "",
@@ -845,7 +845,7 @@
             "Coffee",
             "Movies"
         ],
-        "anthem": "I'll Go",
+        "anthem": "Country",
         "prompts": [
             "Aries",
             "",

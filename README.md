@@ -10,5 +10,7 @@
     - <strike>how many filled out all 3, 2, 1 etc (get count of how many people filled out n many optional prompts)</strike>
     - **graph** it
 
+- <strike>I changed `anthem` to be the genre of the song instead; we're going to take a look at the most popular genre in our sample size</strike>
+
 
 - `profiles.count()` gives some interesting metrics if we need/want them
